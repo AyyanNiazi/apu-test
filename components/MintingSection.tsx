@@ -38,7 +38,7 @@ export default function MintingSection() {
   const [totalSup, setTotalSupp] = useState<string>("");
   const [isMinting, setIsMinting] = useState<boolean>(false);
 
-  const contractAddress = "0xA1D4C0e622d94Bdcb43A5461592d133e2829B74F";
+  const contractAddress = "0xC5Bdefc9168144646e0C8068b5A0174f5c14B935";
   const collUrl = ``;
 
   const {
